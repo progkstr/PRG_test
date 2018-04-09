@@ -1,0 +1,16 @@
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\WindowsFormsApp1.exe
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\MetroFramework.dll
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\MySql.Data.dll
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\bin\Debug\MySql.Data.xml
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.exe
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\byksirov.i\Documents\GitHub\PRG_test\obj\Debug\WindowsFormsApp1.Form2.resources
